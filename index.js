@@ -1,4 +1,3 @@
 // Write your code here!
 
-let element = document.createElement('div');
-document.body.appendChild(element);
+let newHeader = document.querySelector("h1#victory");
